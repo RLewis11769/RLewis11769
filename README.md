@@ -6,7 +6,7 @@ I think having the right data is crucial for good decision-making, but there are
 
 My goal is to provide answers and solutions.
 
-I try to write clean, well-organized code that anyone can dive straight into and any tools I put out are as accessible as possible.
+I try to write clean, well-organized code that anyone can dive straight into and any tools I put out are as accessible as possible. 
 
 ## My Favorite Technologies
 
@@ -51,3 +51,5 @@ I try to write clean, well-organized code that anyone can dive straight into and
 [![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RLewis11769&theme=radical&hide=stars)](https://github.com/RLewis11769/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLewis11769&theme=radical)](https://github.com/RLewis11769/github-readme-stats)
+
+[![Rachel's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RLewis11769&theme=redical)](https://github.com/RLewis11769/github-readme-activity-graph)
