@@ -2,11 +2,13 @@
 
 Hi, I'm Rachel Lewis, a quick-learning, detail-oriented full stack web developer and software engineer from Tulsa, OK.
 
-I think having the right data is crucial for good decision-making, but there are so many questions: Has the information been gathered at all? Is it in a format that can be used and analyzed? Is it available to the people who need it? My goal is to provide answers and solutions.
+I think having the right data is crucial for good decision-making, but there are so many questions: Has the information been gathered at all? Is it in a format that can be used and analyzed? Is it available to the people who need it?
+
+My goal is to provide answers and solutions.
 
 I try to write clean, well-organized code that anyone can dive straight into and any tools I put out are as accessible as possible.
 
-Check out some of my favorite technologies below!
+## Favorite Technologies
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,6 +42,7 @@ Check out some of my favorite technologies below!
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+## Stats
 
 [![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RLewis11769&theme=radical&hide=stars)](https://github.com/RLewis11769/github-readme-stats)
 
