@@ -34,7 +34,7 @@ I try to write clean, well-organized code that anyone can dive straight into and
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Other Tools
+### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -45,11 +45,10 @@ I try to write clean, well-organized code that anyone can dive straight into and
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-
 ## Stats
 
 [![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RLewis11769&theme=radical&hide=stars)](https://github.com/RLewis11769/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLewis11769&theme=radical)](https://github.com/RLewis11769/github-readme-stats)
+[![Rachel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLewis11769&theme=radical)](https://github.com/RLewis11769/github-readme-stats)
 
-[![Rachel's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RLewis11769&theme=redical)](https://github.com/RLewis11769/github-readme-activity-graph)
+<!-- [![Rachel's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RLewis11769&theme=redical)](https://github.com/RLewis11769/github-readme-activity-graph) -->
