@@ -17,10 +17,10 @@ I try to write clean, well-organized code that anyone can dive straight into and
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<div style="display:inline-block; text-align:center; margin: 10px">
+<div style="display:inline-block; text-align:center; margin: 10px; height:50px; width: 50px">
 <div>
 
-![C](https://github.com/RLewis11769/RLewis11769/tree/main/Icons/C.svg)
+![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
 </div>
 C
 </div>
