@@ -20,7 +20,7 @@ I try to write clean, well-organized code that anyone can dive straight into and
 <div style="display:inline-block; text-align:center; margin: 10px">
 <div>
 
-![C](https://github.com/RLewis11769/RLewis11769/tree/main/Icons)
+![C](https://github.com/RLewis11769/RLewis11769/tree/main/Icons/C.svg)
 </div>
 C
 </div>
