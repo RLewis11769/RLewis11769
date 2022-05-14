@@ -64,6 +64,6 @@ I try to write clean, well-organized code that anyone can dive straight into and
 
 [![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RLewis11769&theme=github_dark&title_color=26A641&text_color=8b949E&hide=stars)](https://github.com/RLewis11769/github-readme-stats)
 
-[![Rachel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLewis11769&theme=github_dark&title_color=26A641&text_color=8b949E&langs_count=9&exclude_repo=holbertonschool-web_front_end,holberton-headphones,holberton-smiling-school,holbertonschool-web_react)](https://github.com/RLewis11769/github-readme-stats)
+[![Rachel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLewis11769&theme=github_dark&title_color=26A641&text_color=8b949E&langs_count=9&exclude_repo=holbertonschool-web_front_end,holberton-headphones,holberton-smiling-school)](https://github.com/RLewis11769/github-readme-stats)
 
 </div>
